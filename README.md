@@ -48,8 +48,7 @@ The final application implements all the features of the initial design (Map, Re
 
 ## d) Presentation Video
 You can watch a short presentation of the application's features at the following link:  
-[Watch Presentation Video](https://drive.google.com/file/d/1jLithM1YFLLAS-SnT2qkGJxa9FR8Tbw3/view?usp=drive_link)
-
+[example video](https://drive.google.com/file/d/1jLlthM1YFLLaS-SnT2gkGJxa9FR8Tbw3/view?usp=drive_link)
 ---
 
 ## e) Application files
