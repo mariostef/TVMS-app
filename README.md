@@ -57,4 +57,4 @@ You can watch a short presentation of the application's features at the followin
 ## Design & UI/UX
 Before the development phase, the user interface and user experience (UI/UX) of the application were carefully designed. You can view the initial wireframes and interactive prototypes created in Figma here:
 * **Figma Wireframes:** [View the Figma Design](https://www.figma.com/design/opc0yrwWg4zeowbSFxybSK/TravelMiSSion-App?node-id=449-4915&t=aEYS11SPbOn51jRW-1)
-* 
+  
