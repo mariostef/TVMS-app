@@ -52,5 +52,5 @@ You can watch a short presentation of the application's features at the followin
 ---
 
 ## e) Application files
-* **APK File:** [Download APK](https://drive.google.com/file/d/1u4z_FI4MY0GjSaZsF9iknoAWYL16nluG/view?usp=sharing)
-* **ZIP File:** [Download ZIP](https://drive.google.com/file/d/1xUc3sDG91ACInFtxr4enTmyj659qpMja/view?usp=sharing)
+* **APK File:** [Download APK](https://drive.google.com/file/d/1u4z_FI4MY0GjSaZsF9iknoAWYL16nIuG/view?usp=sharing)
+
