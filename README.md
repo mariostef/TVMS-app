@@ -54,3 +54,7 @@ You can watch a short presentation of the application's features at the followin
 ## e) Application files
 * **APK File:** [Download APK](https://drive.google.com/file/d/1u4z_FI4MY0GjSaZsF9iknoAWYL16nIuG/view?usp=sharing)
 
+## Design & UI/UX
+Before the development phase, the user interface and user experience (UI/UX) of the application were carefully designed. You can view the initial wireframes and interactive prototypes created in Figma here:
+* **Figma Wireframes:** [View the Figma Design](https://www.figma.com/design/opc0yrwWg4zeowbSFxybSK/TravelMiSSion-App?node-id=449-4915&t=aEYS11SPbOn51jRW-1)
+* 
